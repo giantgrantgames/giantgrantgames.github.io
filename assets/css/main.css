@@ -1,10 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,200");
 
-/*
-	Halcyonic by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
+
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -83,11 +79,11 @@ input, select, textarea {
 
 	body {
 		background: #D4D9DD url("images/bg03.jpg");
-		color: #474f51;
-		font-size: 13.5pt;
+		color: #333535;
+		font-size: 14pt;
 		font-family: 'Yanone Kaffeesatz';
 		line-height: 1.85em;
-		font-weight: 300;
+		font-weight: 350;
 	}
 
 	input, textarea, select {
@@ -1627,7 +1623,14 @@ input, select, textarea {
 			color: #96a9b5;
 			font-size: 1.25em;
 		}
-
+		
+		#content h4 {
+			font-size: 1.5em;
+			color: #373f42;
+			margin: 0 0 0.25em 0;
+			font-weight: 400;
+		}
+		
 		#content a {
 			color: #ED391B;
 		}
@@ -1764,7 +1767,7 @@ input, select, textarea {
 			#content h3 {
 				font-size: 1.1em;
 			}
-
+			
 			#content header {
 				margin: 0 0 1.25em 0;
 			}
