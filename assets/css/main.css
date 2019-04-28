@@ -1968,7 +1968,7 @@ input, select, textarea {
 			}
 
 			.responsive {
-			  width: 100%;
+			  width: auto;
 			  height: auto;
 			}
 		
